@@ -10,6 +10,8 @@ black = "*"
 transformers = "*"
 faiss-cpu = "*"
 youtube-transcript-api = "*"
+wikipedia = "*"
+langchainhub = "*"
 
 [dev-packages]
 ipykernel = "*"
