@@ -12,6 +12,7 @@ faiss-cpu = "*"
 youtube-transcript-api = "*"
 wikipedia = "*"
 langchainhub = "*"
+flask = "*"
 
 [dev-packages]
 ipykernel = "*"
